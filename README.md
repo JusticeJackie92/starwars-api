@@ -4,9 +4,6 @@ Simple React app for displaying Star Wars characters obtained from swapi
 
 ---
 
-## Project demo
-
-
 
 ---
 

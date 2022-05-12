@@ -1,4 +1,4 @@
-# Star Wars Characters Catalogue
+# Starwars APi
 
 Simple React app for displaying Star Wars characters obtained from swapi
 
@@ -6,12 +6,14 @@ Simple React app for displaying Star Wars characters obtained from swapi
 
 ## Project demo
 
-Demo available at: http://sw-app.surge.sh/
+
 
 ---
 
 ## Technologies
-
+- Axios
+- react-redux
+- react-icons
 - TypeScript
 - React
 - Redux
@@ -21,8 +23,7 @@ Demo available at: http://sw-app.surge.sh/
 
 ## Screenshots
 
-<img width="800" src="https://i.imgur.com/0ROXqPY.png"/>
-<img width="800" src="https://i.imgur.com/uleRAiQ.png"/>
+
 
 ---
 
